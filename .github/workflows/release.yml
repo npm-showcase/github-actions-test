@@ -1,9 +1,8 @@
 name: Release
 on:
   # 合并后自动发布
-  push: {}
-  # push:
-  #   branches: [ master, main, next, beta, '*.x' ]
+  push:
+    branches: [ master, main, next, beta, '*.x' ]
 
   # 手动发布
   workflow_dispatch: {}
@@ -22,5 +21,5 @@ jobs:
       NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
     with:
       checkTest: false
-      dryRun: true
-      action_ref: debug
+      # dryRun: true
+      # action_ref: debug
