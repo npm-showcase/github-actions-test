@@ -10,10 +10,10 @@ on:
 jobs:
   release:
     name: Node.js
-    uses: artusjs/github-actions/.github/workflows/node-release.yml@master
+    uses: artusjs/github-actions/.github/workflows/node-release.yml@debug
     secrets:
       NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     with:
       checkTest: false
-      # dryRun: true
-      # action_ref: debug
+      dryRun: true
+      action_ref: debug
