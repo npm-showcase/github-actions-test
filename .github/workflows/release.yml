@@ -18,7 +18,7 @@ jobs:
     name: Node.js
     uses: artusjs/github-actions/.github/workflows/node-release.yml@debug
     secrets:
-      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     with:
       checkTest: false
       # dryRun: true
