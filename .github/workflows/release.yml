@@ -8,15 +8,9 @@ on:
   workflow_dispatch: {}
 
 jobs:
-  valid:
-    runs-on: ubuntu-18.04
-    steps:
-      - run: node -e 'console.log(process.env.NPM_TOKEN.substring(0, 5))'
-        env:
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
   release:
     name: Node.js
-    uses: artusjs/github-actions/.github/workflows/node-release.yml@debug
+    uses: artusjs/github-actions/.github/workflows/node-release.yml@master
     secrets:
       NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     with:
