@@ -1,26 +1,19 @@
 name: Release
 on:
   # 合并后自动发布
-  push: {}
-  # push:
-  #   branches: [ master, main, next, beta, '*.x' ]
+  push:
+    branches: [ master, main, next, beta, '*.x' ]
 
   # 手动发布
   workflow_dispatch: {}
 
 jobs:
-  valid:
-    runs-on: ubuntu-18.04
-    steps:
-      - run: node -e 'console.log(process.env.NPM_TOKEN.substring(0, 5))'
-        env:
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
   release:
     name: Node.js
-    uses: artusjs/github-actions/.github/workflows/node-release.yml@debug
+    uses: artusjs/github-actions/.github/workflows/node-release.yml@master
     secrets:
-      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     with:
       checkTest: false
-      dryRun: true
-      action_ref: debug
+      # dryRun: true
+      # action_ref: debug
