@@ -15,5 +15,5 @@ jobs:
       NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     with:
       checkTest: false
-      dryRun: true
-      action_ref: debug
+      # dryRun: true
+      # action_ref: debug
