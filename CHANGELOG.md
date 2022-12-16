@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1-beta.1](https://github.com/npm-showcase/github-actions-test/compare/v1.2.0...v1.2.1-beta.1) (2022-12-16)
+
+
+### Bug Fixes
+
+* beta pr1 ([#7](https://github.com/npm-showcase/github-actions-test/issues/7)) ([bd441ec](https://github.com/npm-showcase/github-actions-test/commit/bd441ec487f9fd2b3d45911596658e2c174fd773))
+
 ## [1.2.0](https://github.com/npm-showcase/github-actions-test/compare/v1.1.1...v1.2.0) (2022-12-16)
 
 
