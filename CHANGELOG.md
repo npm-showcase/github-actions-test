@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/npm-showcase/github-actions-test/compare/v1.2.0...v1.2.1) (2022-12-16)
+
+
+### Bug Fixes
+
+* at master ([#8](https://github.com/npm-showcase/github-actions-test/issues/8)) ([0745fac](https://github.com/npm-showcase/github-actions-test/commit/0745fac9045d83b3ec698ecb4c1c9dc0f10b8fe0))
+
 ## [1.2.0](https://github.com/npm-showcase/github-actions-test/compare/v1.1.1...v1.2.0) (2022-12-16)
 
 
