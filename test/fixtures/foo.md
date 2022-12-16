@@ -1,2 +1,3 @@
 - some word
 - feat 1
+- fix 1
