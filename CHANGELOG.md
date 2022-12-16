@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0-beta.4](https://github.com/npm-showcase/github-actions-test/compare/v1.1.0-beta.3...v1.1.0-beta.4) (2022-12-16)
+
+
+### Bug Fixes
+
+* use master ([3ecd402](https://github.com/npm-showcase/github-actions-test/commit/3ecd4024273ca423a1ac21f8600d91e99401ce71))
+
 ## [1.1.0-beta.3](https://github.com/npm-showcase/github-actions-test/compare/v1.1.0-beta.2...v1.1.0-beta.3) (2022-12-15)
 
 
