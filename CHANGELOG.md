@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/npm-showcase/github-actions-test/compare/v1.0.2...v1.1.0) (2022-12-16)
+
+
+### Features
+
+* merge ([#3](https://github.com/npm-showcase/github-actions-test/issues/3)) ([07bb1e1](https://github.com/npm-showcase/github-actions-test/commit/07bb1e1b99938c2fa4b3d4081ba0175c11af5cf5))
+
 ## [1.1.0-beta.4](https://github.com/npm-showcase/github-actions-test/compare/v1.1.0-beta.3...v1.1.0-beta.4) (2022-12-16)
 
 
