@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/npm-showcase/github-actions-test/compare/v1.2.1...v1.2.2) (2022-12-17)
+
+
+### Bug Fixes
+
+* persist-credentials: false ([d36418a](https://github.com/npm-showcase/github-actions-test/commit/d36418a623de9925af26e060b314a3a2248ac8ac))
+
 ## [1.2.1](https://github.com/npm-showcase/github-actions-test/compare/v1.2.0...v1.2.1) (2022-12-16)
 
 
