@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.7](https://github.com/npm-showcase/github-actions-test/compare/v1.2.6...v1.2.7) (2022-12-17)
+
+
+### Bug Fixes
+
+* xx ([593d5fb](https://github.com/npm-showcase/github-actions-test/commit/593d5fbdc9de16daeb289c6cf59f35d550ff5bc3))
+
 ## [1.2.6](https://github.com/npm-showcase/github-actions-test/compare/v1.2.5...v1.2.6) (2022-12-17)
 
 
