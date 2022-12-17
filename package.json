@@ -1,6 +1,6 @@
 {
   "name": "@npm-showcase/github-actions-test",
-  "version": "1.2.10",
+  "version": "1.3.0",
   "description": "just a test for github action",
   "main": "index.js",
   "type": "commonjs",

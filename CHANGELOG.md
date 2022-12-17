@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.3.0](https://github.com/npm-showcase/github-actions-test/compare/v1.2.9...v1.3.0) (2022-12-17)
+
+
+### Features
+
+* cnpm sync ([cf4510b](https://github.com/npm-showcase/github-actions-test/commit/cf4510be25c6a28fdba0effe5d2e5a54c9476e54))
+
+
+### Bug Fixes
+
+* cnpm sync ([0126859](https://github.com/npm-showcase/github-actions-test/commit/01268594c9e74524a0013b9e4a9d410d4250c76d))
+* cnpm sync ([b625a42](https://github.com/npm-showcase/github-actions-test/commit/b625a422c895d2a66ca327b212eb3fe32b8c9d53))
+
 ## [1.2.10](https://github.com/npm-showcase/github-actions-test/compare/v1.2.9...v1.2.10) (2022-12-17)
 
 
