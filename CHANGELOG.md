@@ -5,6 +5,14 @@
 
 ### Bug Fixes
 
+* cnpm sync ([0126859](https://github.com/npm-showcase/github-actions-test/commit/01268594c9e74524a0013b9e4a9d410d4250c76d))
+* cnpm sync ([b625a42](https://github.com/npm-showcase/github-actions-test/commit/b625a422c895d2a66ca327b212eb3fe32b8c9d53))
+
+## [1.2.10](https://github.com/npm-showcase/github-actions-test/compare/v1.2.9...v1.2.10) (2022-12-17)
+
+
+### Bug Fixes
+
 * cnpm sync ([b625a42](https://github.com/npm-showcase/github-actions-test/commit/b625a422c895d2a66ca327b212eb3fe32b8c9d53))
 
 ## [1.2.9](https://github.com/npm-showcase/github-actions-test/compare/v1.2.8...v1.2.9) (2022-12-17)
