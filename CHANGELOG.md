@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.3](https://github.com/npm-showcase/github-actions-test/compare/v1.2.2...v1.2.3) (2022-12-17)
+
+
+### Bug Fixes
+
+* gh token ([52d0027](https://github.com/npm-showcase/github-actions-test/commit/52d0027d8769fa6527e7b0531314fdf65016fd1e))
+* gh token ([48c105b](https://github.com/npm-showcase/github-actions-test/commit/48c105b927449e63143a390ddfbff6dcc84afda0))
+* persist-credentials: false ([0ca5591](https://github.com/npm-showcase/github-actions-test/commit/0ca5591a1d589603b3908d5826c398ec03b4ecbf))
+
 ## [1.2.2](https://github.com/npm-showcase/github-actions-test/compare/v1.2.1...v1.2.2) (2022-12-17)
 
 
