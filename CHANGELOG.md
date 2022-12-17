@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.6](https://github.com/npm-showcase/github-actions-test/compare/v1.2.5...v1.2.6) (2022-12-17)
+
+
+### Bug Fixes
+
+* gh token ([81719ab](https://github.com/npm-showcase/github-actions-test/commit/81719ab13f1cf92133b03b659c6817b51fe2ede4))
+
 ## [1.2.5](https://github.com/npm-showcase/github-actions-test/compare/v1.2.4...v1.2.5) (2022-12-17)
 
 
