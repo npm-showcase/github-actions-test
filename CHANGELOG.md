@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.9](https://github.com/npm-showcase/github-actions-test/compare/v1.2.8...v1.2.9) (2022-12-17)
+
+
+### Bug Fixes
+
+* cnpm sync ([bd95a54](https://github.com/npm-showcase/github-actions-test/commit/bd95a548134f1e47b9e18ad77733b74157bfcf42))
+
 ## [1.2.8](https://github.com/npm-showcase/github-actions-test/compare/v1.2.7...v1.2.8) (2022-12-17)
 
 
